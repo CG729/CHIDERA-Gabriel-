@@ -1,0 +1,1 @@
+This folder contains all database files and migrations for the e-commerce site.

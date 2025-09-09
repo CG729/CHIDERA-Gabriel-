@@ -1,0 +1,1 @@
+This folder contains all frontend files for the e-commerce site.

@@ -1,0 +1,1 @@
+This folder contains all backend files for the e-commerce site.
